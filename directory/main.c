@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-printf("Jungwoo heart Jiwon");
+printf("Jungwoo loves Jiwon");
